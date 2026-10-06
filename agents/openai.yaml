@@ -1,0 +1,4 @@
+interface:
+  display_name: "PowerShell 7 Windows"
+  short_description: "Windows automation strictly using PowerShell 7"
+  default_prompt: "Use $powershell-windows to complete this Windows task and verify the result on the actual execution host."
